@@ -1,7 +1,5 @@
 import React from "react";
 
-import { quickLinks, settingMenu } from "../utils/constants";
-
 const Footer = () => {
   return (
     <footer className="bg-[#f2f2f2]">
